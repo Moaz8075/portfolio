@@ -12,10 +12,10 @@ import {
   Routes,
   Navigate
 } from "react-router-dom";
+import "bootstrap/dist/css/bootstrap.min.css";
 import ScrollToTop from "./components/ScrollToTop";
 import "./style.css";
 import "./App.css";
-import "bootstrap/dist/css/bootstrap.min.css";
 import Techstack from "./components/About/Techstack";
 
 function App() {
